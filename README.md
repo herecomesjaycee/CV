@@ -1,10 +1,10 @@
-## Your Name
+## [Jaycee Cheong] (https://herecomesjaycee.com)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Currently learning at Makers Academy, to learn the ropes of web development. I'm a natural problem solver, and programming brings me enormous joy and I take great pride in my work. 
 
 ## Skills
 
-#### This Skill
+#### Analytics thinking - Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2017 to March 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Agile Project Management Practitioner (February 2016)
+- Certified Agile Project Management Practitioner
+- Passionate about delivering projects to the highest standards. 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### London Metropolitan University  (2009 - 2013)
 
-#### Any other qualifications
+- Human Nutrition (Bsc)
+- 2:1
+- Volunteer at Hammersmith Hospital for Nutrition/Physchology research study
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+[**TAP London**](www.wearetaplondon.com) (January 2015 - December 2016)    
+*Technical Consultant*  
+[**Gousto**](www.gousto.com) (January 2014 - January 2015 )   
+*Product Manager*  
