@@ -1,5 +1,5 @@
 ## [Jaycee Cheong] (https://herecomesjaycee.com)
-I am a fullstack Ruby Developer seeking for her first web development role in London. 
+I am a fullstack Ruby Developer seeking for her first web development role in Bristol/Bath/London. 
 
 Previously from a background in technical consultancy with agile project delivery, I discover a passion for web/software development and decided to attend [Makers Academy](http://www.makersacademy.com) to pursue a career in the field. 
 
@@ -22,14 +22,21 @@ Clients including:
 #### Communication
 Recognising my natural aptitude in presentation and communication with either clients or colleagues, I was trained as a product/project manager between 2014 and 2016. I gained an Agile Project Manager Practitioner Certification in Feb 2016 and continued working heavily in CRM project management, along with my technical responsibilities in the projects. 
 
-Outside of my 9-5, I have given introductory talks on Physical Web at [Codebar Monthly](https://codebar.io/meetings/monthly-jun-2016) and [Women Hack for Non Profits Tech Talk](https://generalassemb.ly/education/women-hack-for-non-profits-tech-talks-evening) to introduce Physical Web and Eddystone beacons. Along with the talks, I wrote a [blogpost](http://bit.ly/2hLOBkW) on this too. 
+Outside of my 9-5, I have given [introductory talk on Physical Web](https://docs.google.com/presentation/d/1dkVVZCefEtuCmpVE6rQVt8q7YKrDGID793M5Mh138uA/edit?usp=sharing) at [Codebar Monthly](https://codebar.io/meetings/monthly-jun-2016) and [Women Hack for Non Profits Tech Talk](https://generalassemb.ly/education/women-hack-for-non-profits-tech-talks-evening) to introduce Physical Web and Eddystone beacons. Along with the talks, I wrote a [blogpost](http://bit.ly/2hLOBkW) on this too. 
 
 #### Team Mentality 
-In week 5 of the course, I nominated myself as the of lead of the group project, which was to complete a minimum viable product of an Airbnb clone. My perseverance/ can do attitude was infectious, and the team worked hard together towards an end result we all very pleased with. 
+In week 5 of the Makers Academy course, I nominated myself as the of lead of the group project, which was to complete a minimum viable product of an Airbnb clone. My perseverance/ can do attitude was infectious, and the team worked hard together towards an end result we all very pleased with.
 
 #### Mentoring
 I am a mentor of a student whom started the Makers Academy course 6 weeks after I did. We often pair in the evening and answered any questions she had for the week. I often take time out during my study hours to help others in my course with a range of education tools such as diagramming, delving into the topic, creating easy to read examples and more. 
 
+##Projects
+
+| Name   | Description |Technologies |Link(s)|
+| --------|---------|-------|-------|
+| Chitter  | A Twitter clone project during the Makers Academy course| Ruby, Sinatra, CSS, DataMapper, PostgreSQL    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
+| MakersBnB | An Airbnb clone MVP group project  |Ruby,Sinatra, CSS   |[Heroku](https://github.com/herecomesjaycee/Makersbnb/tree/master) [Github](https://byte-2-makersbnb.herokuapp.com/spaces)|
+| Bowling | A bowling game  |JavaScript   |[Github](https://github.com/herecomesjaycee/bowling-challenge)|
 ## Education
 
 #### Makers Academy (January 2017 to March 2017)
