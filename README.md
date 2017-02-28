@@ -38,7 +38,7 @@ I am a mentor of a student whom started the Makers Academy course 6 weeks after 
 
 | Name   | Description |Technologies |Link(s)|
 | --------|---------|-------|-------|
-| Instagram  | An Instagram clone project during the Makers Academy course| Ruby, Rails, CSS, ActiveRecord, PostgreSQL, JavaScript    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
+| Instagram Challenge  | An Instagram clone project during the Makers Academy course| Ruby, Rails, CSS, ActiveRecord, PostgreSQL, JavaScript    |[Heroku]() [Github](https://github.com/herecomesjaycee/instagram-challenge)|
 | Chitter  | A Twitter clone project during the Makers Academy course| Ruby, Sinatra, CSS, DataMapper, PostgreSQL    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
 | Bowling | A bowling game  |JavaScript, jQuery   |[Github](https://github.com/herecomesjaycee/bowling-challenge)|
 | MakersBnB | An Airbnb clone MVP group project  |Ruby,Sinatra, CSS, DataMapper, PostgreSQL   |[Heroku](https://github.com/herecomesjaycee/Makersbnb/tree/master) [Github](https://byte-2-makersbnb.herokuapp.com/spaces)|
