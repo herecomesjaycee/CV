@@ -35,8 +35,8 @@ I am a mentor of a student whom started the Makers Academy course 6 weeks after 
 | Name   | Description |Technologies |Link(s)|
 | --------|---------|-------|-------|
 | Chitter  | A Twitter clone project during the Makers Academy course| Ruby, Sinatra, CSS, DataMapper, PostgreSQL    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
-| MakersBnB | An Airbnb clone MVP group project  |Ruby,Sinatra, CSS   |[Heroku](https://github.com/herecomesjaycee/Makersbnb/tree/master) [Github](https://byte-2-makersbnb.herokuapp.com/spaces)|
-| Bowling | A bowling game  |JavaScript   |[Github](https://github.com/herecomesjaycee/bowling-challenge)|
+| MakersBnB | An Airbnb clone MVP group project  |Ruby,Sinatra, CSS, DataMapper, PostgreSQL   |[Heroku](https://github.com/herecomesjaycee/Makersbnb/tree/master) [Github](https://byte-2-makersbnb.herokuapp.com/spaces)|
+| Bowling | A bowling game  |JavaScript, jQuery   |[Github](https://github.com/herecomesjaycee/bowling-challenge)|
 ## Education
 
 #### Makers Academy (January 2017 to March 2017)
