@@ -28,7 +28,7 @@ Outside of my 9-5, I have given [introductory talk on Physical Web](https://docs
 In week 5 of the Makers Academy course, I nominated myself as the of lead of the group project, which was to complete a minimum viable product of an Airbnb clone. My perseverance/ can do attitude was infectious, and the team worked hard together towards an end result we all very pleased with.
 
 #### Mentoring
-I am a mentor of a student whom started the Makers Academy course 6 weeks after I did. We often pair in the evening and answered any questions she had for the week. I often take time out during my study hours to help others in my course with a range of education tools such as diagramming, delving into the topic, creating easy to read examples and more. 
+I am a mentor of a student whom started the Makers Academy course 6 weeks after I did. We often pair in evenings and have one technical discussion each week. During the course, I often take time out during my study hours to help other students with a range of education tools such as diagramming, delving into the topic using documentation, practical examples and more. 
 
 ##Projects
 
