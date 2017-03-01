@@ -5,7 +5,7 @@ Previously from a background in technical consultancy with agile project deliver
 
 I started learning on frontend development in my spare time since 2015. Always keeping myself up to date with the various frontend technologies, I enjoyed experimenting with various frontend technologies such as d3.js and Flexbox. 
 
-Getting out of my comfort zone, I attended a Node workshop in London in early 2016. At the end of the workshop, I found that backend development is just as interesting as frontend development, which led to my decision to learn fullstack web development. During the course, I found a new love for Ruby on Rails however I am keen to explore React, other MVC frameworks and iOS development after the course.  
+Getting out of my comfort zone, I attended a Node workshop in London in early 2016. At the end of the workshop, I found that backend development is just as interesting as frontend development, which led to my decision to learn fullstack web development. During the course, I found a new love for Ruby on Rails however I am keen to explore React, other MVC frameworks and iOS development after the course. 
 
 In my next role, I would love the opportunity to exploring ways to incorporating my previous experience in solution delivery management and my passion in crafting software. 
 
@@ -26,22 +26,22 @@ Clients including:
 #### Communication
 Recognising my natural aptitude in presentation and communication with either clients or colleagues, I was trained as a product/project manager between 2014 and 2016. I gained an Agile Project Manager Practitioner Certification in Feb 2016 and continued working heavily in CRM project management, along with my technical responsibilities in the projects. 
 
-Outside of my 9-5, I have given [introductory talk on Physical Web](https://docs.google.com/presentation/d/1dkVVZCefEtuCmpVE6rQVt8q7YKrDGID793M5Mh138uA/edit?usp=sharing) at [Codebar Monthly](https://codebar.io/meetings/monthly-jun-2016) and [Women Hack for Non Profits Tech Talk](https://generalassemb.ly/education/women-hack-for-non-profits-tech-talks-evening) to introduce Physical Web and Eddystone beacons. Along with the talks, I have written a [blogpost](http://bit.ly/2hLOBkW) on this too. 
+Outside of my 9-5, I gave an [introductory talk on Physical Web](https://docs.google.com/presentation/d/1dkVVZCefEtuCmpVE6rQVt8q7YKrDGID793M5Mh138uA/edit?usp=sharing) at [Codebar Monthly](https://codebar.io/meetings/monthly-jun-2016) and [Women Hack for Non Profits Tech Talk](https://generalassemb.ly/education/women-hack-for-non-profits-tech-talks-evening) to introduce Physical Web and Eddystone beacons. Along with the talk slides, I have written a [blogpost](http://bit.ly/2hLOBkW) on the topic too. 
 
 #### Team Mentality 
 In week 5 of the Makers Academy course, I nominated myself as the of lead of the group project, which was to complete a minimum viable product of an Airbnb clone. My perseverance/ can do attitude was infectious, and the team worked hard together towards an end result we were all very pleased with, which was the working MVP of the clone. 
 
 #### Mentoring
-I am a mentor of a student whom started the Makers Academy course 6 weeks after I did. We often pair in evenings and have one technical discussion each week. During the course, I often take time out during my study hours to help other students with a range of education tools such as diagramming, delving into the topic using documentation, practical examples and more. 
+I am a mentor of a student whom started the Makers Academy course 6 weeks after I did. We often pair in evenings and have at least one technical discussion each week. During the course, I often take time out during my study hours to help other students with a range of education tools such as diagramming, delving into the topic using documentation, practical examples and more. 
 
 ##Projects
 
 | Name   | Description |Technologies |Link(s)|
 | --------|---------|-------|-------|
-| Instagram Challenge  | An Instagram clone project during the Makers Academy course| Ruby, Rails, CSS, ActiveRecord, PostgreSQL, JavaScript    |[Heroku]() [Github](https://github.com/herecomesjaycee/instagram-challenge)|
+| Instagram Challenge  | An Instagram clone project during the Makers Academy course| Ruby, Rails, CSS, ActiveRecord, PostgreSQL, JavaScript    |[Github](https://github.com/herecomesjaycee/instagram-challenge)|
 | Chitter  | A Twitter clone project during the Makers Academy course| Ruby, Sinatra, CSS, DataMapper, PostgreSQL    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
 | Bowling | A bowling game  |JavaScript, jQuery   |[Github](https://github.com/herecomesjaycee/bowling-challenge)|
-| MakersBnB | An Airbnb clone MVP group project  |Ruby,Sinatra, CSS, DataMapper, PostgreSQL   |[Heroku](https://github.com/herecomesjaycee/Makersbnb/tree/master) [Github](https://byte-2-makersbnb.herokuapp.com/spaces)|
+| MakersBnB | An Airbnb clone MVP group project  |Ruby,Sinatra, CSS, DataMapper, PostgreSQL   |[Heroku](https://byte-2-makersbnb.herokuapp.com/spaces) [Github](https://github.com/herecomesjaycee/Makersbnb/tree/master)|
 
 ## Education
 
