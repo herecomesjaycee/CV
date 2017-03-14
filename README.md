@@ -1,4 +1,4 @@
-## [Jaycee Cheong] (https://herecomesjaycee.com)
+## [Jaycee Cheong](https://herecomesjaycee.com)
 I am a fullstack Ruby Developer seeking for my first web development role in Bristol/Bath/London. 
 
 Previously from a background in technical consultancy with agile project delivery, I discovered a passion for web/software development during self-learning and decided to attend [Makers Academy](http://www.makersacademy.com) to pursue a career in the field. 
