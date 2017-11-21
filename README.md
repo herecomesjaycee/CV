@@ -5,12 +5,13 @@ Previously from a background in technical consultancy with agile project deliver
 
 Outside of my job, you'd find me organising/delivering coding or any tech related workshops, giving talks and mentoring students who are interested in software development.
 
-In my next role, I would love the opportunity to learn from product companies. 
+In my next role, I would love the opportunity to learn from product companies to improve my knowledge on working with large scale applications.
 
 ## Skills
 
 #### Problem Solving & Critical Thinking
-At Simpleweb, 
+At Simpleweb, I work with clients to understand the problem they are hoping to solve with their technical products, providing technical expertise and building the agreed solution. 
+
 As a technical consultant, I have worked with large organisations which had complex IT infrastructure, involving outsourced agencies to complete their CRM(Customer Retention Marketing) goals and objectives. 
 
 In projects I've worked on, we faced the challenge of finding a way of automating two or more web/IT systems to work with each other. As a consultant, I gathered information from relevant teams, read up documentation on various systems and software before commencing solution testing. 
@@ -31,11 +32,11 @@ Recognising my natural aptitude in presentation and communication with either cl
 #### Mentoring
 I often mentor students at [Codebar](https://www.codebar.io), [CodeFirstGirls](https://www.codefirstgirls.org.uk/) and some previous students at [Makers Academy](https://www.makersacademy.com).
 
-##Projects
+## Projects
 
 | Name   | Description |Technologies |Link(s)|
 | --------|---------|-------|-------|
-|Rusic| Social campaign tool | Ruby on Rails, JQuery, Bootstrap, Mailchimp API, Redis, AWS, Heroku, Sidekiq | 
+|Rusic| Social campaign tool | Ruby on Rails, JQuery, Bootstrap, Mailchimp API, Redis, AWS, Heroku, Sidekiq | [Rusic](https://www.rusic.hq)| 
 | BeMyMeme| An dating app with in-built meme gallery and real time messaging|Ruby On Rails, Redis, WebSockets, Bootstrap, PostgreSQL, JavaScript, Heroku|[Github](https://github.com/Justinio14/BeMyMeme)|
 | Instagram Challenge  | An Instagram clone project during the Makers Academy course| Ruby, Rails, CSS, ActiveRecord, PostgreSQL, JavaScript, AWS    |[Github](https://github.com/herecomesjaycee/instagram-challenge)|
 | Chitter  | A Twitter clone project during the Makers Academy course| Ruby, Sinatra, CSS, DataMapper, PostgreSQL    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
