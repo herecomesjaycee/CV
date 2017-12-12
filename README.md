@@ -36,7 +36,7 @@ I mentor students at [Codebar](https://www.codebar.io), [CodeFirstGirls](https:/
 | Name   | Description |Technologies |Link(s)|
 | --------|---------|-------|-------|
 |Rusic| Social campaign tool | Ruby on Rails, JQuery, Bootstrap, Mailchimp API, Redis, AWS, Heroku, Sidekiq | [Rusic](https://www.rusic.hq)| 
-| BeMyMeme| An dating app with in-built meme gallery and real time messaging|Ruby On Rails, Redis, WebSockets, Bootstrap, PostgreSQL, JavaScript, Heroku|[Link](https://bemymeme.herokuapp.com/)[Github](https://github.com/Justinio14/BeMyMeme) |
+| BeMyMeme| An dating app with in-built meme gallery and real time messaging|Ruby On Rails, Redis, WebSockets, Bootstrap, PostgreSQL, JavaScript, Heroku|[Link](https://bemymeme.herokuapp.com/) [Github](https://github.com/Justinio14/BeMyMeme) |
 | Instagram Challenge  | An Instagram clone project during the Makers Academy course| Ruby, Rails, CSS, ActiveRecord, PostgreSQL, JavaScript, AWS    |[Github](https://github.com/herecomesjaycee/instagram-challenge)|
 | Chitter  | A Twitter clone project during the Makers Academy course| Ruby, Sinatra, CSS, DataMapper, PostgreSQL    |[Heroku](https://chitter-jaycee.herokuapp.com/) [Github](https://github.com/herecomesjaycee/chitter-challenge)|
 | Bowling | A bowling game  |JavaScript, jQuery, HTML, CSS   |[Github](https://github.com/herecomesjaycee/bowling-challenge)|
