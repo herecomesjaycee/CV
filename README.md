@@ -1,5 +1,5 @@
 ## [Jaycee Cheong](https://herecomesjaycee.com)
-I currently work at [Simpleweb](https://www.simpleweb.co.uk) as a software developer working with a wide range of technologies/libraries and frameworks.
+I currently work at [Simpleweb](https://simpleweb.co.uk) as a software developer working with a wide range of technologies/libraries and frameworks.
 
 Previously from a background in technical consultancy with agile project delivery, I discovered a passion for web/software development during my own self-directed learning and decided to attend [Makers Academy](http://www.makersacademy.com) to pursue a career in the field and have been working as a developer since May 2017.
 
@@ -67,14 +67,14 @@ I mentor students at [Codebar](https://www.codebar.io), [CodeFirstGirls](https:/
 
 ## Experience
 
-[**Simpleweb**](www.simpleweb.co.uk) (May 2017 - Current)    
+[**Simpleweb**](https://simpleweb.co.uk) (May 2017 - Current)    
 *Software Developer*  
 I build B2C/B2B software for various clients or internal projects, with Ruby on Rails, frontend technologies, Elasticsearch, Neo4j and more. 
 
-[**TAP London**](www.wearetaplondon.com) (January 2015 - December 2016)    
+[**TAP London**](http://www.wearetaplondon.com) (January 2015 - December 2016)    
 *Technical Consultant*  
 In addition to day-to-day consultancy, implementation and internal training responsibilities, I lead the company in undertaking new ventures and building relationships with new partners. To date I have delivered products for Pizza Hut Delivery, Reed Elsevier, Samsung Australia, giffgaff, and many more.
 
-[**Gousto**](www.gousto.com) (January 2014 - January 2015)   
+[**Gousto**](https://www.gousto.com) (January 2014 - January 2015)   
 *Product Manager*  
 I was rapidly promoted to management within Gousto, a food e-commerce brand, within its Product department. It is one of my proudest achievements, and a valuable learning experience in start-up culture. I lead the team to innovate and improve our products using Agile Product Management.
