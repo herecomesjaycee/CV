@@ -14,7 +14,7 @@ At Simpleweb, I work with clients to understand the problem they are hoping to s
 
 I have worked with large organisations which had complex IT infrastructure as a technical consultant, outsourced agencies to complete their CRM(Customer Retention Marketing) goals and objectives. 
 
-In projects I've worked on, we faced the challenge of automating two or more web/IT systems to work with each other. My role as a consultant was to gather information from relevant teams, and utilising documentation on various systems and software before commencing solution testing. 
+In projects I've worked on, we faced the challenge of automating two or more web/IT systems to work with each other. My role as a consultant was to gather information from relevant teams, and utilising documentation on various softare systems before commencing solution testing. 
 
 Once my hypothesised solutions had been tested for discovery purposes, I presented each solution to the relevant teams and we worked towards to the agreed solution. 
 
